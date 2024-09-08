@@ -1,7 +1,8 @@
 **QUIZ_APP**
 ---
 Build a realtime Quiz App from scratch with Flutter 3 & Firebase.
-**Run It**
+
+Run It
 ---
 ```
 git clone https://github.com/saifkhan32/quiz_app.git
