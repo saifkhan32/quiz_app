@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115838115955",
+    "project_id": "demofire-5b972",
+    "storage_bucket": "demofire-5b972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115838115955:android:3fb6733cda84a6931b8a06",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXE-tM_0jjyIkRUOSqdnwCCZCSbORU28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115838115955:android:b5bbaad5872dbb181b8a06",
+        "android_client_info": {
+          "package_name": "io.demochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXE-tM_0jjyIkRUOSqdnwCCZCSbORU28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
