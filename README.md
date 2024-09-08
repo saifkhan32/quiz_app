@@ -1,4 +1,4 @@
-**QUIZ_APP**
+**QUIZ APP**
 ---
 Build a realtime Quiz App from scratch with Flutter 3 & Firebase.
 
