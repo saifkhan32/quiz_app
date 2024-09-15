@@ -39,7 +39,7 @@ Future<void> updateUserReport(Quiz? quiz)
   var ref = _db.collection('reports').doc(user.uid);
  var data = {
   'total' : FieldValue.increment(1),
-  'topics' : {FieldValue.arrayUnion([quiz!.id]),}
+  'topics' : { quiz?.topic: FieldValue.arrayUnion([quiz?.id]),}
 
  };
  return ref.set(data,SetOptions(merge: true));
